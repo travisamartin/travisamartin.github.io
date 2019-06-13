@@ -77,6 +77,16 @@ When customers wanted to upgrade OneFS or buy new Isilon hardware, they had to c
     </item>
     
     <item>
+      <title>Mapping the User Journey</title>
+      <link>http://example.org/content_strategy/user_journey/</link>
+      <pubDate>Thu, 13 Jun 2019 15:33:02 -0700</pubDate>
+      
+      <guid>http://example.org/content_strategy/user_journey/</guid>
+      <description>View the customer&amp;rsquo;s OneFS upgrade journey
+ Overview I&amp;rsquo;m passionate about making sure that the upgrade experience for Isilon customers goes as smoothly as possible. One of the obstacles that customers face when upgrading OneFS is finding and reading all the upgrade documentation. There are over 400 pages of upgrade-related material, published across 10 documents, that are considered &amp;ldquo;required reading.&amp;rdquo; That&amp;rsquo;s too much. I heard from customers that they don&amp;rsquo;t want to search for information or read long guides to complete an upgrade.</description>
+    </item>
+    
+    <item>
       <title>Heuristic Checklist</title>
       <link>http://example.org/content_strategy/heuristic_checklist/</link>
       <pubDate>Thu, 13 Jun 2019 09:45:26 -0700</pubDate>
@@ -85,16 +95,6 @@ When customers wanted to upgrade OneFS or buy new Isilon hardware, they had to c
       <description>Download my heuristic checklist (PDF).
  Overview I created the following heuristic checklist, based on Nielsen’s heuristics, for the Isilon OneFS web administration interface. Heuristic evaluations are one of the most popular inspection-based methods for identifying usability problems in the user interface. An evaluator systematically examines the interface and compares it against a checklist of usability principles.
 This heuristic checklist is used by developers, UX researchers, and writers. It provides a quick and inexpensive way to obtain early feedback in the design process while suggesting corrective measures.</description>
-    </item>
-    
-    <item>
-      <title>Mapping the User Journey</title>
-      <link>http://example.org/content_strategy/user_journey/</link>
-      <pubDate>Thu, 13 Jun 2019 15:33:02 -0700</pubDate>
-      
-      <guid>http://example.org/content_strategy/user_journey/</guid>
-      <description>View the customer&amp;rsquo;s OneFS upgrade journey
- Overview I&amp;rsquo;m passionate about making sure that the upgrade experience for Isilon customers goes as smoothly as possible. One of the obstacles that customers face when upgrading OneFS is finding and reading all the upgrade documentation. There are over 400 pages of upgrade-related material, published across 10 documents, that are considered &amp;ldquo;required reading.&amp;rdquo; That&amp;rsquo;s too much. I heard from customers that they don&amp;rsquo;t want to search for information or read long guides to complete an upgrade.</description>
     </item>
     
     <item>

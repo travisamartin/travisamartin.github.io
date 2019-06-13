@@ -49,6 +49,13 @@
 	"content": " Download the journal article \u0026ldquo;Expert Yet Vulnerable: Understanding the Needs of Transit-Dependent Riders to Inform Policy and Design\u0026rdquo;\n Overview When I was a graduate student at the University of Washington, I assisted in an ethnographic research study. For one semester, my teammates and I looked at how transit-dependent populations use the King County Metro Transit system, and how vulnerable communities, especially the homeless, overcome barriers to ridership. We identified several systemic issues and proposed human-centered design solutions to make the transit system more fair and inclusive.\n"
 },
 {
+	"uri": "http://example.org/content_strategy/user_journey/",
+	"title": "Mapping the User Journey",
+	"tags": [],
+	"description": "",
+	"content": " View the customer\u0026rsquo;s OneFS upgrade journey\n Overview I\u0026rsquo;m passionate about making sure that the upgrade experience for Isilon customers goes as smoothly as possible. One of the obstacles that customers face when upgrading OneFS is finding and reading all the upgrade documentation. There are over 400 pages of upgrade-related material, published across 10 documents, that are considered \u0026ldquo;required reading.\u0026rdquo; That\u0026rsquo;s too much. I heard from customers that they don\u0026rsquo;t want to search for information or read long guides to complete an upgrade. They are too busy for that. Customers expect upgrades to work.\nHere is a presentation that I gave to senior executives that laid out the upgrade problem from the customers\u0026rsquo; perspective. This was the first time that anyone had presented personas and journey maps to the executive leadership. The result was positive. Projects have started that focus on improving the upgrade experience at the code level so that the documentation doesn\u0026rsquo;t have to do the \u0026ldquo;heavy lifting\u0026rdquo; of clarifying complex processes.\n"
+},
+{
 	"uri": "http://example.org/content_strategy/heuristic_checklist/",
 	"title": "Heuristic Checklist",
 	"tags": [],
@@ -61,13 +68,6 @@
 	"tags": [],
 	"description": "",
 	"content": " Content Strategy Intro text goes here.\n"
-},
-{
-	"uri": "http://example.org/content_strategy/user_journey/",
-	"title": "Mapping the User Journey",
-	"tags": [],
-	"description": "",
-	"content": " View the customer\u0026rsquo;s OneFS upgrade journey\n Overview I\u0026rsquo;m passionate about making sure that the upgrade experience for Isilon customers goes as smoothly as possible. One of the obstacles that customers face when upgrading OneFS is finding and reading all the upgrade documentation. There are over 400 pages of upgrade-related material, published across 10 documents, that are considered \u0026ldquo;required reading.\u0026rdquo; That\u0026rsquo;s too much. I heard from customers that they don\u0026rsquo;t want to search for information or read long guides to complete an upgrade. They are too busy for that. Customers expect upgrades to work.\nHere is a presentation that I gave to senior executives that laid out the upgrade problem from the customers\u0026rsquo; perspective. This was the first time that anyone had presented personas and journey maps to the executive leadership. The result was positive. Projects have started that focus on improving the upgrade experience at the code level so that the documentation doesn\u0026rsquo;t have to do the \u0026ldquo;heavy lifting\u0026rdquo; of clarifying complex processes.\n"
 },
 {
 	"uri": "http://example.org/writing_samples/online_help/",

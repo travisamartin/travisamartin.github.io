@@ -36,6 +36,11 @@
   </url>
   
   <url>
+    <loc>http://example.org/content_strategy/user_journey/</loc>
+    <lastmod>2019-06-13T15:33:02-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/content_strategy/heuristic_checklist/</loc>
     <lastmod>2019-06-13T09:45:26-07:00</lastmod>
   </url>
@@ -43,11 +48,6 @@
   <url>
     <loc>http://example.org/content_strategy/</loc>
     <lastmod>2019-06-13T09:24:48-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/content_strategy/user_journey/</loc>
-    <lastmod>2019-06-13T15:33:02-07:00</lastmod>
   </url>
   
   <url>
