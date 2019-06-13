@@ -88,6 +88,16 @@ This heuristic checklist is used by developers, UX researchers, and writers. It 
     </item>
     
     <item>
+      <title>Mapping the User Journey</title>
+      <link>http://example.org/content_strategy/user_journey/</link>
+      <pubDate>Thu, 13 Jun 2019 15:33:02 -0700</pubDate>
+      
+      <guid>http://example.org/content_strategy/user_journey/</guid>
+      <description>View the customer&amp;rsquo;s OneFS upgrade journey
+ Overview I&amp;rsquo;m passionate about making sure that the upgrade experience for Isilon customers goes as smoothly as possible. One of the obstacles that customers face when upgrading OneFS is finding and reading all the upgrade documentation. There are over 400 pages of upgrade-related material, published across 10 documents, that are considered &amp;ldquo;required reading.&amp;rdquo; That&amp;rsquo;s too much. I heard from customers that they don&amp;rsquo;t want to search for information or read long guides to complete an upgrade.</description>
+    </item>
+    
+    <item>
       <title>Online Help</title>
       <link>http://example.org/writing_samples/online_help/</link>
       <pubDate>Thu, 13 Jun 2019 14:41:11 -0700</pubDate>
