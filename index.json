@@ -1,0 +1,71 @@
+[
+{
+	"uri": "http://example.org/content_strategy/personas/",
+	"title": "Personas",
+	"tags": [],
+	"description": "",
+	"content": " Download the personas I created (PDF).\n Overview Two UX colleagues and I were asked to create user personas for Isilon. These personas would be used as tools to help align business requirements with customer wants and needs.\nA persona is a fictional character that represents a customer or target audience. A persona has a name, a picture, some demographic information, and other meaningful characteristics. Personas are based on user research—in this case, the Isilon personas are based on customer interviews, site visits, and surveys—and are composites of real people from the group the persona represents.\nThe Isilon user personas that we created represent new and veteran System Administrators working in the health sciences, media and entertainment, and private sector verticals. Each persona includes a quote from a real user, a short bio, a list of goals and motivations, daily tasks, and pain points. These personas are used by engineering, documentation, and training teams for planning and developing user-centered product requirements.\n\n"
+},
+{
+	"uri": "http://example.org/writing_samples/",
+	"title": "Writing Samples",
+	"tags": [],
+	"description": "",
+	"content": " Writing Samples Intro text goes here.\n"
+},
+{
+	"uri": "http://example.org/content_strategy/heuristic_checklist/",
+	"title": "Heuristic Checklist",
+	"tags": [],
+	"description": "",
+	"content": " Download my heuristic checklist (PDF).\n Overview I created the following heuristic checklist, based on Nielsen’s heuristics, for the Isilon OneFS web administration interface. Heuristic evaluations are one of the most popular inspection-based methods for identifying usability problems in the user interface. An evaluator systematically examines the interface and compares it against a checklist of usability principles.\nThis heuristic checklist is used by developers, UX researchers, and writers. It provides a quick and inexpensive way to obtain early feedback in the design process while suggesting corrective measures.\n\n"
+},
+{
+	"uri": "http://example.org/resume/",
+	"title": "My Resume",
+	"tags": [],
+	"description": "",
+	"content": " Download the PDF version of my resume.\n I wear many hats: I am a senior technical content developer, content strategist, and UX researcher. I enjoy wrangling complex problems and answering the question “Why?” with qualitative and quantitative data.\n Specialties: content development, content strategy, information design, user research, user-centered design\nSkills: DITA; XMetaL; quantitative and qualitative research: field study, focus group, cognitive walkthrough, interview, survey, content audit, heuristic evaluation, card sort, A/B test, wireframes, prototypes\n Experience F5 Networks Senior Technical Communications Specialist, October 2017–Now\nDell EMC Isilon Senior Technical Writer, May 2012–October 2017\n I help customers build knowledge by creating clear, concise, visually appealing, user-centered technical content. This includes, but isn’t limited to: UI text, online help, knowledge base articles, blog posts, videos, upgrade guides, administration guides, compatibility guides, and white papers. Use a combination of content audits, data analysis, benchmarking, and user research to produce content that meets business objectives and customers’ goals. Co-founded the Information Development Strategy team. We are a team of content and user experience professionals who conduct user research with customers and provide guidance to developers and writers on matters of user experience and content strategy. Created Isilon’s first user personas using ethnographic research methods: interviews, surveys, site visits. Trained other teams on how to use personas. Collaborated with UX and engineering teams to create style guidelines for the OneFS operating system and its companion product, InsightIQ. Write customer-facing UI text for the OneFS and InsightIQ user interfaces, including text for field labels, button names, tooltips, in-app help, and error messages. Led a successful company-wide campaign to redesign and standardize the release notes for EMC products. Developed and advanced the idea of Information Hubs—curated lists of related information based on the hub-and-spoke model—across the company to improve the findability of information for customers. Example: https://community.emc.com/docs/DOC-44304 Mentor team members on authoring tools, team processes, global standards and guidelines, content reuse, and DITA best practices.  Tyler Technologies User Assistance Lead, 2008–2012\n Lead technical writer. Mentored team members on authoring tools, team processes, global standards, content reuse. Planned, researched, wrote, published, and updated documentation for Microsoft Dynamics AX. Deliverables included online help, release notes, tech notes, and knowledge base articles. Wrote customer-facing UI text for field labels, button names, in-app help, and error messages.  Contract positions at Microsoft, Real Networks, and AT\u0026amp;T Wireless Quality Assurance Engineer, 1996–2008\n Lead QA Engineer with planning and project management responsibilities. Developed project plans, managed team schedule, and tracked project delivery. Tested the design and functionality of new software applications and websites. Tests included functional tests, regression tests, stress tests, and build verification tests. Wrote training guides, test plans, test cases, and test reports. Wrote user stories and use case scenarios for software projects based on customer interviews, surveys, and competitive benchmarking.  Education University of Washington (Seattle, WA)  Bachelor of Arts, Linguistics Master of Science, Technical Communication  Awards Dell EMC Gold Excellence Award  For improving the findability of product documentation through Information Hubs  Dell EMC Silver Excellence Award  For creating high-value troubleshooting guides based on content audits and user research  Dell EMC Bronze Excellence Award  For training teams on how to use web analytics for content planning  Published Writing  For a description of my academic writing and publication, see the Academic Research page.  "
+},
+{
+	"uri": "http://example.org/writing_samples/compatibility_guide/",
+	"title": "Compatibility Guide",
+	"tags": [],
+	"description": "",
+	"content": " Helping Customers Help Themselves Download the Isilon Supportability and Compatability Guide (PDF).\n Overview I was lucky to be asked to create Isilon’s first customer-facing compatibility guide. You might not believe me, but there was no single, authoritative source for compatibility information before.\nWhen customers wanted to upgrade OneFS or buy new Isilon hardware, they had to call Isilon Support or their account manager with compatibility-related questions. This put an unreasonable burden on customers looking for information, who just wanted to look up an answer and get back to work. Knowing that customers are savvy, like self-support, and demand convenience, I made the compatibility guide public.\nThe compatibility guide is a reference guide and includes such topics as Isilon software upgrades, Isilon hardware interoperability, protocols, web browsers, drive and node firmware, and cables, among other things. All the information was collected from interviews with subject matter experts (SMEs) and was vetted by engineers, QA, and key management stakeholders. The guide is refreshed when new Isilon products come to market.\nSince its initial release, the Isilon Supportability and Compatibility Guide is Isilon’s #1 accessed document, with thousands of weekly downloads by both external and internal customers. This document is a must-have for anyone upgrading Isilon software or hardware.\n"
+},
+{
+	"uri": "http://example.org/writing_samples/academic/",
+	"title": "Academic Research",
+	"tags": [],
+	"description": "",
+	"content": " Ethnographic Field Research: Transit System Overview When I was a graduate student at the University of Washington, I assisted in an ethnographic research study. For one semester, my teammates and I looked at how transit-dependent populations use the King County Metro Transit system, and how vulnerable communities, especially the homeless, overcome barriers to ridership. We identified several systemic issues and proposed human-centered design solutions to make the transit system more fair and inclusive.\nPublished journal article: Expert Yet Vulnerable: Understanding the Needs of Transit-Dependent Riders to Inform Policy and Design\n "
+},
+{
+	"uri": "http://example.org/content_strategy/",
+	"title": "Content Strategy",
+	"tags": [],
+	"description": "",
+	"content": " Content Strategy Intro text goes here.\n"
+},
+{
+	"uri": "http://example.org/",
+	"title": "Travis A. Martin&#39;s Portfolio",
+	"tags": [],
+	"description": "",
+	"content": "Landing page. Add text here.\n"
+},
+{
+	"uri": "http://example.org/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://example.org/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]

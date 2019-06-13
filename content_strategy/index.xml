@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Content Strategy on My Portfolio</title>
+    <link>http://example.org/content_strategy/</link>
+    <description>Recent content in Content Strategy on My Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Jun 2019 09:24:48 -0700</lastBuildDate>
+    
+	<atom:link href="http://example.org/content_strategy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Personas</title>
+      <link>http://example.org/content_strategy/personas/</link>
+      <pubDate>Thu, 13 Jun 2019 09:24:48 -0700</pubDate>
+      
+      <guid>http://example.org/content_strategy/personas/</guid>
+      <description>Download the personas I created (PDF).
+ Overview Two UX colleagues and I were asked to create user personas for Isilon. These personas would be used as tools to help align business requirements with customer wants and needs.
+A persona is a fictional character that represents a customer or target audience. A persona has a name, a picture, some demographic information, and other meaningful characteristics. Personas are based on user research—in this case, the Isilon personas are based on customer interviews, site visits, and surveys—and are composites of real people from the group the persona represents.</description>
+    </item>
+    
+    <item>
+      <title>Heuristic Checklist</title>
+      <link>http://example.org/content_strategy/heuristic_checklist/</link>
+      <pubDate>Thu, 13 Jun 2019 09:45:26 -0700</pubDate>
+      
+      <guid>http://example.org/content_strategy/heuristic_checklist/</guid>
+      <description>Download my heuristic checklist (PDF).
+ Overview I created the following heuristic checklist, based on Nielsen’s heuristics, for the Isilon OneFS web administration interface. Heuristic evaluations are one of the most popular inspection-based methods for identifying usability problems in the user interface. An evaluator systematically examines the interface and compares it against a checklist of usability principles.
+This heuristic checklist is used by developers, UX researchers, and writers. It provides a quick and inexpensive way to obtain early feedback in the design process while suggesting corrective measures.</description>
+    </item>
+    
+  </channel>
+</rss>
