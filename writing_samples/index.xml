@@ -6,9 +6,21 @@
     <description>Recent content in Writing Samples on My Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 13 Jun 2019 14:23:28 -0700</lastBuildDate>
     
 	<atom:link href="http://example.org/writing_samples/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Upgrade Guide</title>
+      <link>http://example.org/writing_samples/upgrade_guide/</link>
+      <pubDate>Thu, 13 Jun 2019 14:23:28 -0700</pubDate>
+      
+      <guid>http://example.org/writing_samples/upgrade_guide/</guid>
+      <description>Download the Dell EMC Isilon OneFS Upgrade Planning and Process Guide. (PDF)
+ Overview I was responsible for writing and maintaining the Dell EMC Isilon OneFS Upgrade Planning and Process Guide. System Administrators and Technical Account Managers use this guide to upgrade OneFS. This guide includes all the required pre-upgrade, upgrade, and post-upgrade steps.
+When System Administrators upgrade their data centers, they cannot tolerate errors; so, for an upgrade to be successful, the upgrade procedures must be perfect.</description>
+    </item>
     
     <item>
       <title>Compatibility Guide</title>
@@ -16,7 +28,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/writing_samples/compatibility_guide/</guid>
-      <description>Helping Customers Help Themselves Download the Isilon Supportability and Compatability Guide (PDF).
+      <description>Helping Customers Help Themselves Download the Isilon Supportability and Compatability Guide. (PDF)
  Overview I was lucky to be asked to create Isilon’s first customer-facing compatibility guide. You might not believe me, but there was no single, authoritative source for compatibility information before.
 When customers wanted to upgrade OneFS or buy new Isilon hardware, they had to call Isilon Support or their account manager with compatibility-related questions. This put an unreasonable burden on customers looking for information, who just wanted to look up an answer and get back to work.</description>
     </item>
@@ -27,7 +39,30 @@ When customers wanted to upgrade OneFS or buy new Isilon hardware, they had to c
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/writing_samples/academic/</guid>
-      <description>Ethnographic Field Research: Transit System Overview When I was a graduate student at the University of Washington, I assisted in an ethnographic research study. For one semester, my teammates and I looked at how transit-dependent populations use the King County Metro Transit system, and how vulnerable communities, especially the homeless, overcome barriers to ridership. We identified several systemic issues and proposed human-centered design solutions to make the transit system more fair and inclusive.</description>
+      <description>Download the journal article &amp;ldquo;Expert Yet Vulnerable: Understanding the Needs of Transit-Dependent Riders to Inform Policy and Design&amp;rdquo;
+ Overview When I was a graduate student at the University of Washington, I assisted in an ethnographic research study. For one semester, my teammates and I looked at how transit-dependent populations use the King County Metro Transit system, and how vulnerable communities, especially the homeless, overcome barriers to ridership. We identified several systemic issues and proposed human-centered design solutions to make the transit system more fair and inclusive.</description>
+    </item>
+    
+    <item>
+      <title>Online Help</title>
+      <link>http://example.org/writing_samples/online_help/</link>
+      <pubDate>Thu, 13 Jun 2019 14:41:11 -0700</pubDate>
+      
+      <guid>http://example.org/writing_samples/online_help/</guid>
+      <description>Overview Here are &amp;ldquo;What&amp;rsquo;s New,&amp;rdquo; conceptual, and procedural topics that I wrote for Microsoft Dynamics AX 2012. Microsoft Dynamics AX, recently rebranded as Dynamics 365, is a multi-government, multi-language, multi-currency global enterprise resource planning (ERP) software suite. Dynamics AX is part of the Microsoft Dynamics family.
+When I worked at Tyler Technologies, we partnered with Microsoft to develop public sector accounting features for Microsoft Dynamics AX 2012 that addressed the unique needs of public sector organizations.</description>
+    </item>
+    
+    <item>
+      <title>Knowledge Base Articles</title>
+      <link>http://example.org/writing_samples/kb_articles/</link>
+      <pubDate>Thu, 13 Jun 2019 14:34:30 -0700</pubDate>
+      
+      <guid>http://example.org/writing_samples/kb_articles/</guid>
+      <description>Overview Here are samples of knowledge base articles that I wrote for Dell EMC Isilon and Microsoft.
+Knowledge base articles come in two types: break/fix and how-to.
+A break/fix article provides information about an issue that customers might have experienced, and provides a workaround or resolution for the problem. The typical structure for a break/fix article is Issue, Cause, and Workaround or Solution.
+A how-to article is a procedure that explains how to do a task not found in the product documentation.</description>
     </item>
     
   </channel>
