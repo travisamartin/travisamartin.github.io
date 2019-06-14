@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Travis A. Martin&#39;s Portfolio on My Portfolio</title>
-    <link>http://travisamartin.com/</link>
+    <link>https://travisamartin.com/</link>
     <description>Recent content in Travis A. Martin&#39;s Portfolio on My Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Jun 2019 12:00:31 -0700</lastBuildDate>
     
-	<atom:link href="http://travisamartin.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://travisamartin.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Upgrade Guide</title>
-      <link>http://travisamartin.com/writing_samples/upgrade_guide/</link>
+      <link>https://travisamartin.com/writing_samples/upgrade_guide/</link>
       <pubDate>Thu, 13 Jun 2019 14:23:28 -0700</pubDate>
       
-      <guid>http://travisamartin.com/writing_samples/upgrade_guide/</guid>
+      <guid>https://travisamartin.com/writing_samples/upgrade_guide/</guid>
       <description>Download the Dell EMC Isilon OneFS Upgrade Planning and Process Guide. (PDF)
  Overview I was responsible for writing and maintaining the Dell EMC Isilon OneFS Upgrade Planning and Process Guide. System Administrators and Technical Account Managers use this guide to upgrade OneFS. This guide includes all the required pre-upgrade, upgrade, and post-upgrade steps.
 When System Administrators upgrade their data centers, they cannot tolerate errors; so, for an upgrade to be successful, the upgrade procedures must be perfect.</description>
@@ -24,10 +24,10 @@ When System Administrators upgrade their data centers, they cannot tolerate erro
     
     <item>
       <title>Personas</title>
-      <link>http://travisamartin.com/content_strategy/personas/</link>
+      <link>https://travisamartin.com/content_strategy/personas/</link>
       <pubDate>Thu, 13 Jun 2019 09:24:48 -0700</pubDate>
       
-      <guid>http://travisamartin.com/content_strategy/personas/</guid>
+      <guid>https://travisamartin.com/content_strategy/personas/</guid>
       <description>Download the personas I created (PDF).
  Overview Two UX colleagues and I were asked to create user personas for Isilon. These personas would be used as tools to help align business requirements with customer wants and needs.
 A persona is a fictional character that represents a customer or target audience. A persona has a name, a picture, some demographic information, and other meaningful characteristics. Personas are based on user research—in this case, the Isilon personas are based on customer interviews, site visits, and surveys—and are composites of real people from the group the persona represents.</description>
@@ -35,10 +35,10 @@ A persona is a fictional character that represents a customer or target audience
     
     <item>
       <title>My Resume</title>
-      <link>http://travisamartin.com/resume/</link>
+      <link>https://travisamartin.com/resume/</link>
       <pubDate>Wed, 12 Jun 2019 12:01:21 -0700</pubDate>
       
-      <guid>http://travisamartin.com/resume/</guid>
+      <guid>https://travisamartin.com/resume/</guid>
       <description>Download the PDF version of my resume.
  I wear many hats: I am a senior technical content developer, content strategist, and UX researcher. I enjoy wrangling complex problems and answering the question “Why?” with qualitative and quantitative data.
  Specialties: content development, content strategy, information design, user research, user-centered design
@@ -47,10 +47,10 @@ Skills: DITA; XMetaL; quantitative and qualitative research: field study, focus 
     
     <item>
       <title>Compatibility Guide</title>
-      <link>http://travisamartin.com/writing_samples/compatibility_guide/</link>
+      <link>https://travisamartin.com/writing_samples/compatibility_guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://travisamartin.com/writing_samples/compatibility_guide/</guid>
+      <guid>https://travisamartin.com/writing_samples/compatibility_guide/</guid>
       <description>Helping Customers Help Themselves Download the Isilon Supportability and Compatability Guide. (PDF)
  Overview I was lucky to be asked to create Isilon’s first customer-facing compatibility guide. You might not believe me, but there was no single, authoritative source for compatibility information before.
 When customers wanted to upgrade OneFS or buy new Isilon hardware, they had to call Isilon Support or their account manager with compatibility-related questions. This put an unreasonable burden on customers looking for information, who just wanted to look up an answer and get back to work.</description>
@@ -58,40 +58,40 @@ When customers wanted to upgrade OneFS or buy new Isilon hardware, they had to c
     
     <item>
       <title>Persona Training</title>
-      <link>http://travisamartin.com/content_strategy/persona_training/</link>
+      <link>https://travisamartin.com/content_strategy/persona_training/</link>
       <pubDate>Thu, 13 Jun 2019 14:52:39 -0700</pubDate>
       
-      <guid>http://travisamartin.com/content_strategy/persona_training/</guid>
+      <guid>https://travisamartin.com/content_strategy/persona_training/</guid>
       <description>Download the presentation I gave that shows how my team used personas and user stories to improve the OneFS upgrade documentation. (PPT)
  Overivew The Isilon user personas have been used as content strategy and design tools, steering conversations in creative and productive ways. Feature teams refer to Josefina as a tangible user and consider her wants and needs when deciding courses of action to take. As a result, features and entire products have a user-centered quality now that they didn&amp;rsquo;t have before, and customer feedback has been positive.</description>
     </item>
     
     <item>
       <title>Academic Research</title>
-      <link>http://travisamartin.com/writing_samples/academic/</link>
+      <link>https://travisamartin.com/writing_samples/academic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://travisamartin.com/writing_samples/academic/</guid>
+      <guid>https://travisamartin.com/writing_samples/academic/</guid>
       <description>Download the journal article &amp;ldquo;Expert Yet Vulnerable: Understanding the Needs of Transit-Dependent Riders to Inform Policy and Design&amp;rdquo;
  Overview When I was a graduate student at the University of Washington, I assisted in an ethnographic research study. For one semester, my teammates and I looked at how transit-dependent populations use the King County Metro Transit system, and how vulnerable communities, especially the homeless, overcome barriers to ridership. We identified several systemic issues and proposed human-centered design solutions to make the transit system more fair and inclusive.</description>
     </item>
     
     <item>
       <title>Mapping the User Journey</title>
-      <link>http://travisamartin.com/content_strategy/user_journey/</link>
+      <link>https://travisamartin.com/content_strategy/user_journey/</link>
       <pubDate>Thu, 13 Jun 2019 15:33:02 -0700</pubDate>
       
-      <guid>http://travisamartin.com/content_strategy/user_journey/</guid>
+      <guid>https://travisamartin.com/content_strategy/user_journey/</guid>
       <description>View the customer&amp;rsquo;s OneFS upgrade journey
  Overview I&amp;rsquo;m passionate about making sure that the upgrade experience for Isilon customers goes as smoothly as possible. One of the obstacles that customers face when upgrading OneFS is finding and reading all the upgrade documentation. There are over 400 pages of upgrade-related material, published across 10 documents, that are considered &amp;ldquo;required reading.&amp;rdquo; That&amp;rsquo;s too much. I heard from customers that they don&amp;rsquo;t want to search for information or read long guides to complete an upgrade.</description>
     </item>
     
     <item>
       <title>Heuristic Checklist</title>
-      <link>http://travisamartin.com/content_strategy/heuristic_checklist/</link>
+      <link>https://travisamartin.com/content_strategy/heuristic_checklist/</link>
       <pubDate>Thu, 13 Jun 2019 09:45:26 -0700</pubDate>
       
-      <guid>http://travisamartin.com/content_strategy/heuristic_checklist/</guid>
+      <guid>https://travisamartin.com/content_strategy/heuristic_checklist/</guid>
       <description>Download my heuristic checklist (PDF).
  Overview I created the following heuristic checklist, based on Nielsen’s heuristics, for the Isilon OneFS web administration interface. Heuristic evaluations are one of the most popular inspection-based methods for identifying usability problems in the user interface. An evaluator systematically examines the interface and compares it against a checklist of usability principles.
 This heuristic checklist is used by developers, UX researchers, and writers. It provides a quick and inexpensive way to obtain early feedback in the design process while suggesting corrective measures.</description>
@@ -99,20 +99,20 @@ This heuristic checklist is used by developers, UX researchers, and writers. It 
     
     <item>
       <title>Online Help</title>
-      <link>http://travisamartin.com/writing_samples/online_help/</link>
+      <link>https://travisamartin.com/writing_samples/online_help/</link>
       <pubDate>Thu, 13 Jun 2019 14:41:11 -0700</pubDate>
       
-      <guid>http://travisamartin.com/writing_samples/online_help/</guid>
+      <guid>https://travisamartin.com/writing_samples/online_help/</guid>
       <description>Overview Here are &amp;ldquo;What&amp;rsquo;s New,&amp;rdquo; conceptual, and procedural topics that I wrote for Microsoft Dynamics AX 2012. Microsoft Dynamics AX, recently rebranded as Dynamics 365, is a multi-government, multi-language, multi-currency global enterprise resource planning (ERP) software suite. Dynamics AX is part of the Microsoft Dynamics family.
 When I worked at Tyler Technologies, we partnered with Microsoft to develop public sector accounting features for Microsoft Dynamics AX 2012 that addressed the unique needs of public sector organizations.</description>
     </item>
     
     <item>
       <title>Knowledge Base Articles</title>
-      <link>http://travisamartin.com/writing_samples/kb_articles/</link>
+      <link>https://travisamartin.com/writing_samples/kb_articles/</link>
       <pubDate>Thu, 13 Jun 2019 14:34:30 -0700</pubDate>
       
-      <guid>http://travisamartin.com/writing_samples/kb_articles/</guid>
+      <guid>https://travisamartin.com/writing_samples/kb_articles/</guid>
       <description>Overview Here are samples of knowledge base articles that I wrote for Dell EMC Isilon and Microsoft.
 Knowledge base articles come in two types: break/fix and how-to.
 A break/fix article provides information about an issue that customers might have experienced, and provides a workaround or resolution for the problem. The typical structure for a break/fix article is Issue, Cause, and Workaround or Solution.
