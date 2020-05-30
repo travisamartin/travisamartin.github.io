@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Content Strategy on My Portfolio</title>
@@ -6,7 +6,7 @@
     <description>Recent content in Content Strategy on My Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Jun 2019 09:24:48 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2019 15:33:02 -0700</lastBuildDate>
     
 	<atom:link href="https://travisamartin.github.io/content_strategy/index.xml" rel="self" type="application/rss+xml" />
     

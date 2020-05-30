@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Travis A. Martin&#39;s Portfolio on My Portfolio</title>
@@ -42,7 +42,7 @@ A persona is a fictional character that represents a customer or target audience
       <description>Download the PDF version of my resume.
  I wear many hats: I am a senior technical content developer, content strategist, and UX researcher. I enjoy wrangling complex problems and answering the question “Why?” with qualitative and quantitative data.
  Specialties: content development, content strategy, information design, user research, user-centered design
-Skills: DITA; XMetaL; quantitative and qualitative research: field study, focus group, cognitive walkthrough, interview, survey, content audit, heuristic evaluation, card sort, A/B test, wireframes, prototypes</description>
+  Skills: DITA; XMetaL; quantitative and qualitative research: field study, focus group, cognitive walkthrough, interview, survey, content audit, heuristic evaluation, card sort, A/B test, wireframes, prototypes</description>
     </item>
     
     <item>
@@ -52,8 +52,8 @@ Skills: DITA; XMetaL; quantitative and qualitative research: field study, focus 
       
       <guid>https://travisamartin.github.io/writing_samples/compatibility_guide/</guid>
       <description>Helping Customers Help Themselves Download the Isilon Supportability and Compatability Guide. (PDF)
- Overview I was lucky to be asked to create Isilon’s first customer-facing compatibility guide. You might not believe me, but there was no single, authoritative source for compatibility information before.
-When customers wanted to upgrade OneFS or buy new Isilon hardware, they had to call Isilon Support or their account manager with compatibility-related questions. This put an unreasonable burden on customers looking for information, who just wanted to look up an answer and get back to work.</description>
+ Overview I was fortunate to be asked to create Isilon’s first customer-facing compatibility guide. This guide is the culmination of many interviews with subject matter experts from Engineering and Global Services.
+The compatibility guide documents support for OneFS and hardware upgrade paths; hardware interoperability; protocols; web browsers, drive and node firmware; and cables &amp;ndash; all the essential things that network administrators care about.</description>
     </item>
     
     <item>
