@@ -28,9 +28,9 @@ When System Administrators upgrade their data centers, they cannot tolerate erro
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://travisamartin.github.io/writing_samples/compatibility_guide/</guid>
-      <description>Helping Customers Help Themselves Download the Isilon Supportability and Compatability Guide. (PDF)
- Overview I was fortunate to be asked to create Isilon’s first customer-facing compatibility guide. This guide is the culmination of many interviews with subject matter experts from Engineering and Global Services.
-The compatibility guide documents support for OneFS and hardware upgrade paths; hardware interoperability; protocols; web browsers, drive and node firmware; and cables &amp;ndash; all the essential things that network administrators care about.</description>
+      <description>Overview I was fortunate to be asked to create Isilon’s first customer-facing compatibility guide. This guide is the culmination of many interviews with subject matter experts from Engineering and Global Services.
+The compatibility guide documents support for OneFS and hardware upgrade paths; hardware interoperability; protocols; web browsers, drive and node firmware; and cables &amp;ndash; all the essential things that network administrators care about.
+The Isilon Supportability and Compatibility Guide is Isilon’s #1 viewed document with thousands of weekly views.</description>
     </item>
     
     <item>
